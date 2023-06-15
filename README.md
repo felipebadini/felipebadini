@@ -1,5 +1,5 @@
 ## Hi, I´m Felipe Badini;
-## Working as a Product Desinger;
+## Working as a Project Manager;
 ## I´m currently studying Front-end development!
 
 <div style="display: inline_block"><br>
