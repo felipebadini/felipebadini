@@ -1,4 +1,6 @@
-## Hi, I´m Felipe Badini, working as a Product Desinger and I´m currently studying Front-end development!
+## Hi, I´m Felipe Badini;
+## working as a Product Desinger;
+## I´m currently studying Front-end development!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Badini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
